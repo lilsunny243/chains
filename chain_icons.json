@@ -575,6 +575,14 @@
     "format": "png"
   }]
 }, {
+  "name": "tipboxcoinIcon",
+  "icons": [{
+    "url": "ipfs://QmbiaHnR3fVVofZ7Xq2GYZxwHkLEy3Fh5qDtqnqXD6ACAh",
+    "width": 192,
+    "height": 192,
+    "format": "png"
+  }]
+}, {
   "name": "etherlite",
   "icons": [{
     "url": "ipfs://QmbNAai1KnBnw4SPQKgrf6vBddifPCQTg2PePry1bmmZYy",
@@ -741,6 +749,14 @@
     "width": 400,
     "height": 400,
     "format": "png"
+  }]
+}, {
+  "name": "bitci",
+  "icons": [{
+    "url": "ipfs://QmbxmfWw5sVMASz5EbR1DCgLfk8PnqpSJGQKpYuEUpoxqn",
+    "width": 64,
+    "height": 64,
+    "format": "svg"
   }]
 }, {
   "name": "phi",
@@ -1479,6 +1495,14 @@
     "format": "png"
   }]
 }, {
+  "name": "acolicon",
+  "icons": [{
+    "url": "ipfs://QmRD7itMvaZutfBjyA7V9xkMGDtsZiJSagPwd3ijqka8kE",
+    "width": 288,
+    "height": 288,
+    "format": "png"
+  }]
+}, {
   "name": "moac",
   "icons": [{
     "url": "ipfs://QmYtTFPFzmBJY671VD6HQADu2sKpV1nJa9Kda9LbMvSCn9",
@@ -1695,6 +1719,14 @@
     "format": "png"
   }]
 }, {
+  "name": "eon",
+  "icons": [{
+    "url": "ipfs://QmSFMBk3rMyu45Sy9KQHjgArFj4HdywANNYrSosLMUdcti",
+    "width": 1213,
+    "height": 1213,
+    "format": "png"
+  }]
+}, {
   "name": "kardiachain",
   "icons": [{
     "url": "ipfs://QmXoHaZXJevc59GuzEgBhwRSH6kio1agMRvL8bD93pARRV",
@@ -1821,6 +1853,14 @@
     "width": 250,
     "height": 250,
     "format": "png"
+  }]
+}, {
+  "name": "autonity",
+  "icons": [{
+    "url": "ipfs://Qmae5oAFpcCG1MEMBwGbNodHAR3wqPBxQkon28AF2SfKTX",
+    "width": 81,
+    "height": 81,
+    "format": "svg"
   }]
 }, {
   "name": "credit",
@@ -2076,6 +2116,14 @@
     "url": "ipfs://QmYiLMeKDXMSNuQmtxNdxm53xR588pcRXMf7zuiZLjQnc6",
     "width": 1501,
     "height": 1501,
+    "format": "png"
+  }]
+}, {
+  "name": "hik",
+  "icons": [{
+    "url": "ipfs://QmW44FPm3CMM2JDs8BQxLNvUtykkUtrGkQkQsUDJSi3Gmp",
+    "width": 350,
+    "height": 84,
     "format": "png"
   }]
 }, {
